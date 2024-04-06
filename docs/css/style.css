@@ -1,0 +1,10 @@
+ body {
+    background-color: black; /* 设置页面背景为黑色 */
+    color: white; /* 设置文本颜色为白色 */
+  }
+  a {
+    color: white; /* 设置链接颜色为白色 */
+  }
+  h1 {
+    color: darkgray; /* 设置标题颜色为暗灰色 */
+  }
